@@ -20,6 +20,23 @@ Changes to This Privacy Policy
 This Privacy Policy is effective as of [Date] and will remain in effect, except for any changes in its provisions, which will be effective immediately upon posting on this page.
 
 We reserve the right to update or modify this Privacy Policy at any time, and it is your responsibility to review this Privacy Policy periodically. We will notify you of any material changes either through the email address you provided or by prominently posting a notice on our app.
+Permissions Explanation:
+
+Our mobile application ("App") may request certain permissions from your device to provide you with the best user experience and access specific features. This section outlines the permissions requested by our App and how we use them:
+
+1. INTERNET:
+   - Purpose: The App requires access to the internet to communicate with our servers and provide you with dynamic content, such as real-time updates and interactive features.
+   - Usage: This permission is used to fetch data from our servers, enable user interactions, and deliver content to your device.
+
+2. READ_EXTERNAL_STORAGE:
+   - Purpose: The App may need to access your device's external storage to provide features such as media sharing, uploading images, or accessing specific files as authorized by you.
+   - Usage: This permission allows the App to read images, media files, and other data from your device's external storage when necessary for specific functionalities.
+
+
+
+By using our App, you consent to the collection and use of data as described in this Permissions Explanation and our Privacy Policy. If you have any questions or concerns about the permissions requested by the App or our data practices, please contact us at [your contact email].
+
+Last Updated: [Date]
 
 Contact Information
 If you have any questions or concerns regarding this privacy policy, please contact us at asmaaelshabaka@gmail.com.
